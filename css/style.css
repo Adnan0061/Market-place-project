@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#post-project{
+	background-color: #8DC442;
+}
+
+#post-project a{
+	text-decoration: none;	
+}
+
+#all-cate{
+	background-color: #8DC442;
+}
+
+#all-cate a{
+	text-decoration: none;	
+}
+.carousel-item{
+	color: white;
+}
+#navitem1{
+	background-image: url(../img/banner.webp);
+	background-position: top right;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#navitem2{
+	background-image: url(../img/banner2.webp);
+	background-position: top right;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#navitem3{
+	background-image: url(../img/banner3.webp);
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.get-started{
+	background-color: #8DC442!important;
+}
+
+.get-started a{
+	color: white!important;
+	text-decoration: none!important;	
+}
+
+#category{
+	background-color: #F9F9F9;
+}
+
+#how{
+	background-color: #F9F9F9;
+}
+
+#how .card{
+	border: none;
+}
+
+#testminial{
+	background-color: #494949;
+	color: white;
+}
+
+#skills ul{
+	list-style-type: none;
+}
+
+#skills ul li{
+	margin: 5px 0;
+}
+
+#all-skills{
+	border: 1px solid #A8C442;
+	box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.2);
+	border-radius: 1px;
+	margin: 0 auto;
+}	
+
